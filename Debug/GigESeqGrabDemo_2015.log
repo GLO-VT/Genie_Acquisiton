@@ -1,0 +1,8 @@
+﻿  (Sapera LT warning) Compiling a 32-bit configuration under 64-bit Windows
+  GigESeqGrabDemo.cpp
+  GigESeqGrabDemoDlg.cpp
+  HighFrameRateDlg.cpp
+  Generating Code...
+GigESeqGrabDemo.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  GigESeqGrabDemo_2015.vcxproj -> C:\Program Files\Teledyne DALSA\Sapera\Demos\Classes\Vc\GigESeqGrabDemo\Debug\GigESeqGrabDemo.exe
+  GigESeqGrabDemo_2015.vcxproj -> .\Debug\GigESeqGrabDemo.pdb (Full PDB)

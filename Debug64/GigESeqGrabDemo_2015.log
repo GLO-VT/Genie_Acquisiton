@@ -1,0 +1,4 @@
+﻿  GigESeqGrabDemoDlg.cpp
+c:\program files\teledyne dalsa\sapera\demos\classes\vc\gigeseqgrabdemo\gigeseqgrabdemodlg.cpp(238): warning C4702: unreachable code
+  GigESeqGrabDemo_2015.vcxproj -> C:\Program Files\Teledyne DALSA\Sapera\Demos\Classes\Vc\GigESeqGrabDemo\Debug64\GigESeqGrabDemo.exe
+  GigESeqGrabDemo_2015.vcxproj -> .\Debug64\GigESeqGrabDemo.pdb (Full PDB)
